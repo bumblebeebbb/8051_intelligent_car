@@ -18,3 +18,10 @@ RS232电平：高：-12v 低：12v
 
 ## 特点
 传输上限低，波特率越高越容易出错
+
+## 应用
+调试打印：MCU->串口助手，输出日志参数
+模块通信：MCU->蓝牙模块，GPS，GSM
+设备交互：单片机->pc、扫码枪、PLC
+###### 注释：GSM:Global System for Mobile Communications，全球移动通信系统
+###### 注释：PLC:Programmable Logic Controller，可编程逻辑控制器
